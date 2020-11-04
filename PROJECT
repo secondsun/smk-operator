@@ -1,0 +1,7 @@
+domain: dev.secondsun
+layout: go.kubebuilder.io/v2
+projectName: smk-operator
+repo: github.com/secondsun/smk-operator
+version: 3-alpha
+plugins:
+  go.sdk.operatorframework.io/v2-alpha: {}
